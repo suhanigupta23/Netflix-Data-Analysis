@@ -19,4 +19,4 @@ This project analyzes a dataset of Netflix shows and movies to uncover trends in
 - Jupyter Notebook
 
 ## Author
-Suhani Gupta | For Labmentix Internship Application
+Suhani Gupta 
